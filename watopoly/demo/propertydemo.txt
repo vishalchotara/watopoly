@@ -1,0 +1,35 @@
+6
+Isabel G 0 1440 3 
+Paul P 0 50 3 
+Wayne L 0 1350 12 
+Colin B 0 1232 23 
+Beatrix S 0 1156 32 
+Christina T 0 530 6 
+AL BANK 0
+ML Isabel 0
+MKV Christina 0
+ECH Christina 2
+PAS Christina 0
+HH Christina 0
+RCH BANK 0
+PAC Wayne 0
+DWE BANK 0
+CPH BANK 0
+UWP Christina 0
+LHI BANK 0
+BMH BANK 0
+OPT BANK 0
+EV1 BANK 0
+EV2 Colin 0
+EV3 BANK 0
+V1 Christina 0
+PHYS BANK 0
+B1 BANK 0
+CIF Christina 0
+B2 BANK 0
+EIT BANK 0
+ESC Beatrix 0
+C2 BANK 0
+REV BANK 0
+MC Christina 0
+DC BANK 0
